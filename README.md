@@ -1,1 +1,7 @@
 # PlistExample
+
+- Insert
+
+- Update
+
+- Delete
